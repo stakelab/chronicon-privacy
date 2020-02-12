@@ -1,0 +1,2 @@
+# chronicon-privacy
+Privacy policy
